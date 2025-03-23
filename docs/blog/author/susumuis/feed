@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>susumuis &#8211; メイドカフェでノマド会公式サイト</title>
+	<atom:link href="https://www.maid-cafe.work/blog/author/susumuis/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.maid-cafe.work</link>
+	<description>メイドカフェでノマドワークの素晴らしさを世の中に広げる活動をしています</description>
+	<lastBuildDate>Mon, 22 Nov 2021 17:41:39 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://www.maid-cafe.work/wp-content/uploads/sites/2/2015/12/cropped-P_20151212_213249-1-32x32.jpg</url>
+	<title>susumuis &#8211; メイドカフェでノマド会公式サイト</title>
+	<link>https://www.maid-cafe.work</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>コロナとメイドカフェでノマド会</title>
+		<link>https://www.maid-cafe.work/blog/2020/1186</link>
+					<comments>https://www.maid-cafe.work/blog/2020/1186#respond</comments>
+		
+		<dc:creator><![CDATA[susumuis]]></dc:creator>
+		<pubDate>Tue, 01 Dec 2020 09:17:03 +0000</pubDate>
+				<category><![CDATA[ノマド会運営報告]]></category>
+		<category><![CDATA[メイドアドベントカレンダー]]></category>
+		<guid isPermaLink="false">http://www.maid-cafe.work/?p=1186</guid>
+
+					<description><![CDATA[この記事はメイドアドベントカレンダー2020の1日目です。 こんにちは、メイドカフェでノマド会代表のいしがみプロです。 みなさん、メイドさんは好きですか？ みなさん、IT勉強会は好きですか？ メイドとIT勉強会、全く違う [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>この記事は<a href="https://adventar.org/calendars/5602">メイドアドベントカレンダー2020</a>の1日目です。</p>
+<p>こんにちは、メイドカフェでノマド会代表のいしがみプロです。</p>
+<p>みなさん、メイドさんは好きですか？<br />
+みなさん、IT勉強会は好きですか？<br />
+メイドとIT勉強会、全く違うように見えるこの2つ、<br />
+両方を大きく揺るす出来事が2020年に起きました。<br />
+ご存知の通り<strong>「新型コロナウィルスCOVID-19」</strong>感染症です。</p>
+<p>メイドカフェとIT勉強会はともに<strong>「オフラインである」</strong>ということを重視してきました。<br />
+ICT時代、人とリアルで話すということが減る中、あえて<strong>「そこへ行く」</strong>ことで人と会えることを大事にしてきました。</p>
+<p><strong>「3密」</strong>を防ぐ<strong>「新しい生活様式」</strong>のもと、その在り方が大きく問われています。<br />
+<strong>「オフライン」</strong>はどこへ行くのか、メイドとIT勉強会両方の側面を持つコミュニティである、メイドカフェでノマド会が2020年にどのように向き合ってきたかを書こうと思います。</p>
+<h2>コロナ以前のメイドカフェでノマド会</h2>
+<p>メイドカフェでノマド会は2016年に活動を始めました。<br />
+<strong>「メイドカフェでノマドワークをすると捗る」</strong>ということを広げるため、メイドカフェさんを会場としてもくもく作業をする会を開催していました。</p>
+<p>そのうち、参加者の中に自らメイドとしてお給仕したいと申し出てくれる方が現れ始め、今では<a href="https://www.maid-cafe.work/organization/maid_profile">メイドさんが10人以上所属しています</a>。<br />
+2019年にはイベント開催回数51回、イベント開催地は秋葉原、新宿、大阪日本橋に広がり、さらに名古屋や福岡にも進出しようとしていました。</p>
+<p>さらに、お声がけがあって、東京都主催のイベントにも参加する予定もありました。<br />
+もし実現していたら、メイドカフェさんと並んで参加させていただくことになるので<strong>「お揃いの制服があるといいよね」</strong>という声があり、オリジナルメイド服を作りました。<br />
+メイドさんの中に服のデザインや製造の調達ができる方がいたため、とても素晴らしいオリジナルメイド服を作ることができました。</p>
+<figure id="attachment_1187" aria-describedby="caption-attachment-1187" style="width: 800px" class="wp-caption alignnone"><a href="//www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/maid-nomad-uniform.jpg"><img fetchpriority="high" decoding="async" class="size-full wp-image-1187" src="//www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/maid-nomad-uniform.jpg" alt="" width="800" height="532" srcset="https://www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/maid-nomad-uniform.jpg 800w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/maid-nomad-uniform-300x200.jpg 300w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/maid-nomad-uniform-768x511.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption id="caption-attachment-1187" class="wp-caption-text">メイドカフェでノマド会オリジナルメイド服</figcaption></figure>
+<h2>コロナ自粛期間のメイドカフェでノマド会</h2>
+<p>結局、コロナウィルス拡大の影響で、当該イベントは中止となってしまいました。<br />
+そのまま<strong>「緊急事態宣言」</strong>下の<strong>「自粛期間」</strong>に突入します。</p>
+<p>メイドカフェでノマド会はITコミュニティということで、比較的リモートへの取り組みが早かったと思います。3月頃からリモートイベントの調整を行い、4月には2回<strong>「リモートノマド会」</strong>を開催しました。<br />
+また<strong>「リモートノマドroom」</strong>という取り組みを始めました（リモートノマドroomについては12/5にmocamocalandさんが記事を書いてくれるみたいです。Zoomの会議URLをSlack上でオープンにしておき、ノマド会のメンバーがいつでも参加できるようにしています。（リモートノマドroomについては12/5にmocamocalandさんが記事を書いてくれるみたいです）</p>
+<figure id="attachment_1189" aria-describedby="caption-attachment-1189" style="width: 660px" class="wp-caption alignnone"><a href="//www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/remote-nomad-kai.jpg"><img decoding="async" class="size-full wp-image-1189" src="//www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/remote-nomad-kai.jpg" alt="リモートノマド会" width="660" height="404" srcset="https://www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/remote-nomad-kai.jpg 660w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/remote-nomad-kai-300x184.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption id="caption-attachment-1189" class="wp-caption-text">リモートノマド会のイメージ</figcaption></figure>
+<p>徐々にメイドカフェさんやIT勉強会のリモート化が広がっていく中で、メイドカフェでノマド会はイベントの開催をストップしました。<br />
+確かにリモートノマドイベントは参加者が集まりますが、内部で<strong>「やりたかったのはこれじゃないよね」</strong>という声が出てきたからです。</p>
+<h2>オフラインイベントの再開</h2>
+<p>6月になると<strong>「緊急事態」</strong>が解除され、メイドカフェさんなどの飲食店もこの頃には通常通りの営業を再開し始めていました。<br />
+メイドカフェでノマド会でも<strong>「そろそろお給仕したい」</strong>と言ってくださるメイドさん<strong>「そろそろみんなに会いたい」</strong>と言ってくださる参加者さんがいるので、<strong>「3密」</strong>を防ぎつつ、オフラインイベントの開催を再開に踏み切ることにしました。</p>
+<p>「第2波」で再度活動を停止していましたが、10月以降は開催人数を絞りつつもオフラインイベントの開催を続けています。</p>
+<figure id="attachment_1190" aria-describedby="caption-attachment-1190" style="width: 336px" class="wp-caption alignnone"><a href="//www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/IFtTab9c.jpg"><img decoding="async" class="wp-image-1190 " src="//www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/IFtTab9c-1024x576.jpg" alt="マスクをつけたメイドさん" width="336" height="189" /></a><figcaption id="caption-attachment-1190" class="wp-caption-text">メイドさんはマスクでお給仕します</figcaption></figure>
+<figure id="attachment_1191" aria-describedby="caption-attachment-1191" style="width: 239px" class="wp-caption alignnone"><a href="//www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/mask-rachel.jpg"><img loading="lazy" decoding="async" class=" wp-image-1191" src="//www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/mask-rachel.jpg" alt="" width="239" height="425" srcset="https://www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/mask-rachel.jpg 360w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/mask-rachel-169x300.jpg 169w" sizes="(max-width: 239px) 100vw, 239px" /></a><figcaption id="caption-attachment-1191" class="wp-caption-text">マスクをつけたメイドさんも素敵ですね？</figcaption></figure>
+<h2>ウィズコロナ時代のコミュニティの必要性</h2>
+<p>ウィズコロナの時代に<strong>「不要不急」</strong>とみなされるオフラインイベントを開催している私たちは叩かれるかもしれません。<br />
+しかし、今の時代だからこそコミュニティが必要だと思っています。<br />
+そしてコミュニティにはオフラインも必要だと考えています。</p>
+<p><strong>「テレワーク」</strong>が広がったことで、会社や学校では<strong>「新入社員の顔がわからないよね」</strong>とか<strong>「飲み会が減ってコミュニケーションが不足しているよね」</strong>というような声が出ています。<br />
+しかし、会社や学校のような組織は責任問題が生じやすいため、今までのように<strong>「密」</strong>な人との繋がりを戻すことは難しいと思います。</p>
+<p>そもそも、会社は仕事をする場所であり、学校は勉強をする場所です。<br />
+これまでは<strong>「場所」</strong>という制約があったため、そこに<strong>「出会い」</strong>があり<strong>「コミュニティ」</strong>としての性格も持っていました。<br />
+しかしながら、緊急度が高い状況下では、より本来の目的が重視されます。<br />
+よって、リモートが可能な業種の会社は原則テレワークのみとなり、学校は実習を覗いて原則リモート授業になることは当然と言えます。</p>
+<p>一方で、人が生きていく上では<strong>「人との繋がり」</strong>が重要です。<br />
+私は昨年妻を亡くしたため、家で一人で暮らしています。<br />
+今年5月頃には誰とも会わない生活をしていたため<strong>「コロナうつ」</strong>のような症状になってしまいました。</p>
+<p>それで気がつきました。<br />
+人には<strong>「人とつながれることという選択肢が必要なのだ」</strong>ということを。</p>
+<figure id="attachment_1197" aria-describedby="caption-attachment-1197" style="width: 660px" class="wp-caption alignnone"><a href="//www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/maid-nomad-kai.jpg"><img loading="lazy" decoding="async" class="wp-image-1197 size-full" src="//www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/maid-nomad-kai.jpg" alt="" width="660" height="495" srcset="https://www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/maid-nomad-kai.jpg 660w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/maid-nomad-kai-300x225.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption id="caption-attachment-1197" class="wp-caption-text">「メイドさんのいる定時後の自習室」の開催風景（コロナ以前撮影のためマスク着用されていませんが現在はマスク着用をお願いしています）</figcaption></figure>
+<h2>オンラインだけではダメな理由</h2>
+<p><strong>「オンラインのみで繋がれば良いではないか」</strong>というとそうでもありません。</p>
+<p>コミュニティは人が自由に出入りできることが重要です。<br />
+その時<strong>「オンラインのコミュニティにいきなり入る」</strong>ことはハードルが高いと思います。<br />
+知らない人しかいないSlackやZoomにいきなり<strong>「初めまして」</strong>をできる人はあまり多くないと思います。</p>
+<p>新規の人が流入しないと<strong>「内輪」</strong>集団色が強くなってしまいます。<br />
+内輪集団でも良いかも知れませんが、新規参加者のいないコミュニティは、所属する人それぞれの生活の変化などで徐々に離れてしまう一方になりがちです。<br />
+気がついたら立ち消えてしまうコミュニティも多いのではないでしょうか。</p>
+<p>コミュニティは、新規でそこに足を踏み入れる人にとって価値が高い可能性があります。<br />
+もちろん長く関わって、価値に共感し、多く貢献をしてくれる人はとてもありがたい存在で、とても大切な人たちです。<br />
+一方で<strong>「そこに初めて訪れる」</strong>人は何かの必要があってそこに来ています。<br />
+常に新しく人が来続ける状態を維持してこそ、そのコミュニティに存在価値を認識できると私は考えます。</p>
+<p>メイドカフェでノマド会は、より良い作業環境を求め、<strong>「メイドさんって良いよね」</strong>という価値に共感する人たちが集まるコミュニティです。発足当初から現在に至るまでイベントをするたびに少しずつ新規の方に参加いただいているので、その価値はきっとあるのだと認識しています。</p>
+<h2>感染症予防のためにやっていること</h2>
+<p>とはいえ、以前と全く同じようにはできません。<br />
+万が一のことが起きないよう、主催者として責任が重くのしかかります。<br />
+そこで次のように対策をしています。</p>
+<ul>
+<li>参加人数を会場定員の約半分に絞っています</li>
+<li>マスク着用、検温、手洗い、消毒の徹底を呼びかけています</li>
+<li>参加者同士が<strong>「密」</strong>となる名刺交換や対面の会話を推奨せず、Slackに誘導してそちらで交流するように促しています</li>
+<li>飲食物の持ち込みは禁止していませんが、個包装にならない飲食物の配布は控えてもらっています</li>
+<li>万が一の時に連絡が取れるように、イベントサイトからのメールが受信できるように確認を呼びかけ、接触確認アプリのインストールも推奨しています</li>
+<li>オンラインでの参加もできるように会場からZoomに接続しています</li>
+</ul>
+<div class="mceTemp"></div>
+<div class="mceTemp"></div>
+<figure id="attachment_1195" aria-describedby="caption-attachment-1195" style="width: 800px" class="wp-caption alignnone"><a href="//www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/DSC_0249.jpg"><img loading="lazy" decoding="async" class="size-full wp-image-1195" src="//www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/DSC_0249.jpg" alt="" width="800" height="450" srcset="https://www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/DSC_0249.jpg 800w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/DSC_0249-300x169.jpg 300w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2020/11/DSC_0249-768x432.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption id="caption-attachment-1195" class="wp-caption-text">今では行っていませんが一時期は連絡先の記入をお願いしていた時期もありました。今は「メール連絡が取れること」を前提として参加いただいています。</figcaption></figure>
+<h2>お給仕してくれるメイドさんと、参加してくれる人がいるなら続ける</h2>
+<p>この対策を行っているため、運営費は若干の赤字になっていますが、これまでにプールしていた運営費と、主催者自身がその必要性を認識して毎月わずかな持ち出しをすることによって維持できています。</p>
+<p><strong>「お給仕をしたい」</strong>と言ってくれるメイドさんがいて<strong>「参加したい」</strong>と言ってくれる参加者さんがいれば、その必要性が認識されていると思いますので、なんとかしながら続けて行きたいと思います。<br />
+逆に<strong>「誰もやりたくない」「参加したくない」</strong>となったらこの会は役目を終えたのだとして終了するのでしょう。</p>
+<h2>まとめ</h2>
+<p>具体的な対策をまとめたテクニカルな記事としてまとめられず、とりとめのない文章になってしまい申し訳ありませんが、これがメイドカフェでノマド会という<strong>「コミュニティ」</strong>の主催者としてこの1年で考えたことです。</p>
+<p>感染症というシビアな状況下でこそ<strong>「自分たちは何をやっているのか」</strong>に立ち返って、本当にすべきことを追求していくことが求められていると思います。<br />
+その中で、メイドカフェでノマド会は<strong>「コミュニティ」</strong>であることの価値を認識し、そのために<strong>「オフライン」</strong>という要素も必要であるということを認識しました。</p>
+<p>メイドカフェさんに対して意見を述べるには大変おこがましいですが、個人でイベントを開催しているメイドさんや、IT勉強会を開催されている方たち、そして、そこに参加している方たちには、多少は参考になるのかもしれません。もしこの記事が誰かのお役に立てたら幸いです。</p>
+<p>読んでいただきありがとうございました。</p>
+<div class="mceTemp"></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.maid-cafe.work/blog/2020/1186/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>メイドカフェでノマド会2019年活動報告</title>
+		<link>https://www.maid-cafe.work/blog/2019/935</link>
+					<comments>https://www.maid-cafe.work/blog/2019/935#respond</comments>
+		
+		<dc:creator><![CDATA[susumuis]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2019 22:49:41 +0000</pubDate>
+				<category><![CDATA[イベント報告]]></category>
+		<category><![CDATA[ノマド会運営報告]]></category>
+		<category><![CDATA[メイドアドベントカレンダー]]></category>
+		<guid isPermaLink="false">http://www.maid-cafe.work/?p=935</guid>
+
+					<description><![CDATA[この記事はメイドアドベントカレンダー2019の19日目です。 今日は、メイドカフェでノマド会2019年の実績・集計資料を公開します。 12月28日の忘年会ではこちらの内容を元に振り返りなどを行いたいと思います。 どなたで [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>この記事は<a href="https://adventar.org/calendars/4488">メイドアドベントカレンダー2019</a>の19日目です。</p>
+<p>今日は、メイドカフェでノマド会2019年の実績・集計資料を公開します。</p>
+<p>12月28日の<a href="https://maid-cafe-nomad.connpass.com/event/158133/">忘年会</a>ではこちらの内容を元に振り返りなどを行いたいと思います。<br />
+どなたでも参加することができます。</p>
+<p><iframe loading="lazy" src="https://docs.google.com/presentation/d/e/2PACX-1vSCJguSQL5i1GRD4T5lF42ouA4KgQOJWIQPULT7SfNsIIKpUHc-BjBo2Ckukmd5C4YD1FxkQCUC5Vg8/embed?start=false&amp;loop=false&amp;delayms=3000" width="960" height="569" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.maid-cafe.work/blog/2019/935/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>メイドカフェとティール組織</title>
+		<link>https://www.maid-cafe.work/blog/2019/901</link>
+					<comments>https://www.maid-cafe.work/blog/2019/901#respond</comments>
+		
+		<dc:creator><![CDATA[susumuis]]></dc:creator>
+		<pubDate>Wed, 04 Dec 2019 15:19:19 +0000</pubDate>
+				<category><![CDATA[コラム]]></category>
+		<category><![CDATA[メイドアドベントカレンダー]]></category>
+		<guid isPermaLink="false">http://www.maid-cafe.work/?p=901</guid>
+
+					<description><![CDATA[この記事はメイドアドベントカレンダー2019の4日目です。 今日は、メイドカフェオタクにして、「メイドカフェでノマド会」という組織のリーダーでもある僕が、組織運営とリーダーシップについて、メイドカフェに当てはめて考えてみ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>この記事は<a href="https://adventar.org/calendars/4488">メイドアドベントカレンダー2019</a>の4日目です。</p>
+<p>今日は、メイドカフェオタクにして、「メイドカフェでノマド会」という組織のリーダーでもある僕が、組織運営とリーダーシップについて、メイドカフェに当てはめて考えてみたいと思います。</p>
+<h2>僕がメイドカフェで組織運営を考えたきっかけ</h2>
+<p>今でこそ、メイドカフェでノマド会の代表をやっている僕も、初めてメイドカフェに通ったのは2015年1月なので今から5年前になります。その時期の僕は、この記事でも少し書きましたが、仕事でうまく行かず、良い組織とはなにか、リーダーとは何かを考えていた時期でもありました。</p>
+<blockquote class="wp-embedded-content" data-secret="dtMw8nFBRY"><p><a href="https://www.maid-cafe.work/2016/246">メイドカフェ通いが理由で会社を辞めることになりました</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;メイドカフェ通いが理由で会社を辞めることになりました&#8221; &#8212; メイドカフェでノマド会公式サイト" src="https://www.maid-cafe.work/2016/246/embed#?secret=dtMw8nFBRY" data-secret="dtMw8nFBRY" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>その時、僕は理想の組織を見つけた気がしました。当時通っていた女中酒場幻橙館というお店は、鈴峰桐さんというメイドさん店長を中心として、メイドさんたちやお客さんたちがとても仲が良い素晴らしいお店でした。</p>
+<p>僕はトップダウン式の「俺が引っ張る」タイプのリーダーではなかったので、こんな感じでみんなが仲良くて、それぞれが才能を発揮してのびのびとやっていけるチームを作っていくのが合っているのではないかと思いました。</p>
+<p>そこで、メイドカフェでノマド会という組織を作ってみました。</p>
+<blockquote class="wp-embedded-content" data-secret="scg7H3B7my"><p><a href="https://www.maid-cafe.work/2018/753">メイドカフェでノマド会にメイドさんがいる理由</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;メイドカフェでノマド会にメイドさんがいる理由&#8221; &#8212; メイドカフェでノマド会公式サイト" src="https://www.maid-cafe.work/2018/753/embed#?secret=scg7H3B7my" data-secret="scg7H3B7my" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<blockquote class="wp-embedded-content" data-secret="P3X5H4dUhU"><p><a href="https://www.maid-cafe.work/2018/604">メイド好きがメイドさんとイベントを運営する時気をつけるべきこと</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;メイド好きがメイドさんとイベントを運営する時気をつけるべきこと&#8221; &#8212; メイドカフェでノマド会公式サイト" src="https://www.maid-cafe.work/2018/604/embed#?secret=P3X5H4dUhU" data-secret="P3X5H4dUhU" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>このように「組織運営」という観点でメイドカフェを見ている僕にとって、今年面白い本を読んだので、その内容をメイドカフェに当てはめて考えてみたいと思います</p>
+<h2>ティール組織とは</h2>
+<p>今年の初め、友達の勧めで読んでみたのはこの本です。</p>
+<p><iframe style="width: 120px; height: 240px;" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=esuai-22&amp;language=ja_JP&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=B078YJV9ZW&amp;linkId=c2e5be59a2b8e0fe9f1dc101ef064694" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>この本を書いた人はフレデリック・ラルーさんという人です。</p>
+<p>彼はマッキンゼーから独立してエグゼクティブ・アドバイザー等として活動している人で<strong>「新しい組織モデルが出現している」</strong>ということを確認するため2年半に渡って世界中の企業を調査した結果をこの本にまとめました。</p>
+<p>彼は組織が時代に応じて進化しているという着眼点でまとめました。そして、組織の形態を次の5段階に当てはめて説明します。</p>
+<ul>
+<li><span style="color: #ff0000;">レッド組織</span>：　力・恐怖による支配</li>
+<li><span style="color: #800000;">アンバー組織</span>：　規則・規律・規範による階層構造。</li>
+<li><span style="color: #ff9900;">オレンジ組織</span>：　実力主義と効率化に基づく階層組織。</li>
+<li><span style="color: #008000;">グリーン組織</span>：　多様性と平等を目指すコミュニティ型組織。</li>
+<li><span style="color: #3366ff;">ティール組織</span>：　変化の激しい時代における生命体組織</li>
+</ul>
+<p>これではわかりにくいのは、僕は独自にこの話を次のように理解しています。</p>
+<ul>
+<li><span style="color: #ff0000;">レッド</span>＝戦国時代：　生きるか死ぬか。殺すか殺されるか。</li>
+<li><span style="color: #800000;">アンバー</span>＝江戸時代：　江戸幕府絶対。忠臣蔵な世界。</li>
+<li><span style="color: #ff9900;">オレンジ</span>＝明治維新：　文明開化と効率化。</li>
+<li><span style="color: #008000;">グリーン</span>＝昭和：　家族型経営、松下幸之助</li>
+<li><span style="color: #3366ff;">ティール</span>＝未来：　新しい時代の組織のあり方（？）</li>
+</ul>
+<p>ちょっと強引な理解ですが、こう考えるととてもわかりやすいと思っています。そういえば、今年、明智光秀の舞台を見に行きましたが、まさに殺伐とした感じが「レッド組織」そのものだと思いました。</p>
+<h2>メイドカフェに各組織段階を当てはめてみる</h2>
+<h3><span style="color: #ff0000;">レッドなメイドカフェ</span>とは</h3>
+<p>レッド組織は「殺すか殺されるか？」という生命の維持を動機としています。力のある者は力のないものを支配し、力のない者は力のある者に守ってもらうことによって生き延びようとします。</p>
+<p>これをメイドカフェに当てはめるのは難しいでしょう。</p>
+<p>詳しくないのであたっていないかもしれませんが、どちらかというと個人プレイの性質がより強いキャバ嬢はこっちの要素もあるかもしれません。</p>
+<h3><span style="color: #800000;">アンバーなメイドカフェ</span>とは</h3>
+<p>アンバー組織では序列がしっかりしています。メイドカフェに当てはめると、後輩メイドさんは必ず先輩メイドさんを敬わなければならないというような序列があったりするような状態です。</p>
+<p>アンバー組織は軍隊のような大きな組織を作るのに適しています。一方、組織を維持するために大きなコストを払わなければならないため、効率が非常に悪く、店舗経営には向かないような気がします。特に個人経営のような小さな店舗ではこのやり方では維持できないでしょう。そこで、多くのお店はオレンジ的に運営されているのではないかと思います。</p>
+<h3><span style="color: #ff9900;">オレンジなメイドカフェ</span>とは</h3>
+<p>オレンジなメイドカフェは、実力主義・効率主義が徹底しています。売上などの目標を定めて、みんなで達成するように努力する。総選挙のようなことをやってメイドさんを評価するのもありかもしれません。</p>
+<p>オレンジ路線を極めたお店は「クオリティが高い」「納得感のある」お店に映るかもしれません。その一方でこれだけでは「普通のお店」のような気もします。そもそも、メイドカフェ自体が「効率の悪い」業態なので、わざわざメイドカフェなんかやめてもっと稼げる業態にすべきです。</p>
+<p>メイドカフェには効率だけでなく「メイドさんの個性」や「多様性」というものも必要ではないかと思います。そして、ほとんどの「良いお店」は次の「<span style="color: #339966;">グリーン</span>」的な要素を持っていると思います。</p>
+<h3><span style="color: #008000;">グリーンなメイドカフェ</span>とは</h3>
+<p>グリーンなメイドカフェではメイドさんやお客さんの個性や多様性を認めようと努力がなされます。グリーンなメイドカフェで働くメイドさんは次のようなことを言うでしょう。</p>
+<p>「うちのお店ってアットホームだよね」</p>
+<p>「みんな仲良しで家族みたいだよね」</p>
+<p>利用するお客さんたちも</p>
+<p>「この店はなんか居心地が良いな」</p>
+<p>と言ったような額面以外の価値に気づいて、つい行きたくなってしまいます。</p>
+<p>その裏では、運営者やリーダーの方々のたゆまぬ努力が繰り広げられています。僕が今まで話したことがあるメイドカフェの経営者さんは皆素晴らしい方々でした。メイドさんたちがどのようにしたら気持ちよく働けるか、お客さんが楽しめるかを一生懸命考えられています。</p>
+<h3><span style="color: #3366ff;">ティールなメイドカフェ</span>とは</h3>
+<p>さて、そして最後はティールなメイドカフェです。ティール組織では、個々のメンバーが細胞のように振る舞います。メイドさんたちは自主的に考えて行動（<strong>自主経営</strong>）し、メイドさんとして働くことが自分の生き方の表現であると考え（<strong>ホールネス</strong>）ています。</p>
+<p>僕が好きだった、女中酒場幻橙館は、桐さんをリーダーとしつつも、若い店長を「みんなで支えよう」として、すべてのメイドさんたちが得意な分野で才能を発揮してみんなでお店を良くしようとしていました（という風にお客さん視点では見えました）その雰囲気はメイドさんたちだけでなく「ご主人さま」「お嬢様」方にも波及し、様々な貢献を率先して行う人たちの集まりでした。</p>
+<p>今思うと、幻橙館はティール組織だったのかもしれません。</p>
+<p>細胞を束ねて組織をするためには「<strong>存在意義</strong>」が必要です。「存在意義」というと難しいです。それは言葉で表せる「コンセプト」だけでなく「なんとなく、残したい雰囲気」のようなものを持っているのです。女中酒場幻橙館は閉店後も3年以上「月一幻橙館」として、メイドさんや当時のお客さんたちが集っていました。このように維持されるのは、暗黙に皆が「存在意義」を感じていたからではないでしょうか。</p>
+<h2>メイドカフェにはグリーン・ティールが必要</h2>
+<p>思うに、<strong><span style="color: #ff0000;">レッド</span></strong>＜<strong><span style="color: #800000;">アンバー</span></strong>＜＜<strong><span style="color: #ff9900;">オレンジ</span></strong>＜＜＜＜<strong><span style="color: #008000;">グリーン</span></strong>＜＜＜＜＜<strong><span style="color: #3366ff;">ティール</span></strong>の順に、そのお店が面白くなるような気がします。「良いお店」とは、多様性があって、個性が認められて、働く人が輝いています。それはグリーンやティールの要素です。</p>
+<p>メイドカフェとは、働く人の個性や多様性がより重視される業態だと思います。</p>
+<p>経営という観点ではオレンジ的な考え方が重視されがちだと思いますが、本当に成功するためには、これらのニュアンスを取り入れることが必要だし、すでに自然と取り入れられているような気がします。</p>
+<p>だから、良いメイドカフェを観察すれば、自ずと「<strong><span style="color: #008000;">グリーン</span></strong>」や「<strong><span style="color: #3366ff;">ティール</span></strong>」のようなニュアンスを学ぶことができるのではないかと思います。</p>
+<h2>メイドカフェでノマド会をティールにできるか？</h2>
+<p>メイドカフェでノマド会は比較的組織構築がうまく言ったと思っています。もっとも、「組織」というほど強い枠組みを作らないようにしています。それは、当初から僕が階層構造にうんざりしていたからもあり「なるべく階層を作らないように」と考えていました。</p>
+<p>そして、ティールなメイドカフェである、女中酒場幻橙館を参考にしていたこともあり、理想はティール組織にしたいです。</p>
+<p>ただ、現段階ではほとんどのイベントを僕が企画・運営していることもあるので、まだグリーン組織かなと思います。しかし「私もイベントをやってみたい」「ノマド会を企画したい」という人が徐々に出てきており、その人達を支援したいと思っています。いずれは、メイドカフェでノマド会のノウハウを、各々が思う目的を達成するために使ってもらえればと思います。</p>
+<blockquote class="wp-embedded-content" data-secret="V55hSEi3wZ"><p><a href="https://www.maid-cafe.work/organization/organizers_profile">イベントオーガナイザー紹介</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;イベントオーガナイザー紹介&#8221; &#8212; メイドカフェでノマド会公式サイト" src="https://www.maid-cafe.work/organization/organizers_profile/embed#?secret=V55hSEi3wZ" data-secret="V55hSEi3wZ" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>メイドカフェでノマド会ではイベントオーガナイザーを募集しています。「メイドさんやメイドカフェと絡めて何かをやってみたい」「自分の好きなお店でメイドカフェでノマド会を開催したい」というような方は、ぜひ<a href="https://twitter.com/maidnomad">Twitter (@maidnomad)</a> へDMでご連絡ください。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.maid-cafe.work/blog/2019/901/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>メイドカフェに何をしにいくのか</title>
+		<link>https://www.maid-cafe.work/blog/2019/897</link>
+					<comments>https://www.maid-cafe.work/blog/2019/897#respond</comments>
+		
+		<dc:creator><![CDATA[susumuis]]></dc:creator>
+		<pubDate>Mon, 02 Dec 2019 12:32:19 +0000</pubDate>
+				<category><![CDATA[コラム]]></category>
+		<category><![CDATA[メイドアドベントカレンダー]]></category>
+		<guid isPermaLink="false">http://www.maid-cafe.work/?p=897</guid>
+
+					<description><![CDATA[この記事はメイドアドベントカレンダーの1日目です。 こんにちは。メイドカフェでノマド会をやっています、いしがみプロです。 今日は以前一部で話題になった「メイドカフェは何をする場所か」について書こうと思います。 ご新規さん [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>この記事は<a href="https://adventar.org/calendars/4488">メイドアドベントカレンダー</a>の1日目です。</p>
+<p>こんにちは。メイドカフェでノマド会をやっています、いしがみプロです。<br />
+今日は以前一部で話題になった「メイドカフェは何をする場所か」について書こうと思います。</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="ja" dir="ltr">ご新規さん「メイドカフェって何するとこなんですか？」<br />メイドさん「お話しするとこです」</p>
+<p>( ͡° ͜ʖ ͡°)んー</p>
+<p>&mdash; みつき@低浮上 (@fubuki_mitsuki) <a href="https://twitter.com/fubuki_mitsuki/status/1199945641989853184?ref_src=twsrc%5Etfw">November 28, 2019</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>メイドカフェと一口に言っても、あっとほぉ〜むカフェさんのようにメイドさんとお話やゲームを楽しむお店から、ワンダーパーラーさんやシークレットチェンバーさんのようなクラシカル系、気絶さんのようなスナックなど、あらゆるジャンルがあります。</p>
+<p>そのため「行く理由は人それぞれ」だと言ってしまえばそれまでなのですが、しかしやはりメイドカフェというものを少しでも知っている人と、そもそもメイドカフェを知らない人にとの間には大きな理解の隔たりがあるように思います。</p>
+<p>ちなみに僕の答えはこちらです。</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="ja" dir="ltr">メイドカフェは第二のおうちです</p>
+<p>&mdash; いしがみプロ (@ishigamipro) <a href="https://twitter.com/ishigamipro/status/1199953464740077568?ref_src=twsrc%5Etfw">November 28, 2019</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="ja" dir="ltr">なので「何しにうちに帰るんですか？」と言われるくらい無粋です（サラリ）</p>
+<p>これいうと「やばいやつ」という目で人は僕を見てきます^^</p>
+<p>&mdash; いしがみプロ (@ishigamipro) <a href="https://twitter.com/ishigamipro/status/1199953652556783616?ref_src=twsrc%5Etfw">November 28, 2019</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>以前、メイドカフェに行かない人からよくこんな会話をしてました。</p>
+<p>「メイドカフェどれくらい言ってる？」<br />
+「週3くらいですかね？」<br />
+「多くね?」</p>
+<p>どうやら一般人にとって、週に何回もお店に行くことが異常らしい。<br />
+そんなに通うからには何か目的があるはずだとなるらしい。</p>
+<p>ところがメイドカフェに通った結果直接的に得られるものなんて何もない。<br />
+メイドさんのプライベートを詮索したり、連絡先を聞いたりすることは多くの店で禁止されている。<br />
+お話するのが目的としたって、2時間いてオーダーを取りに来たときのほんの数秒しか話せないことだってよくある。<br />
+店員2,3人で2,30人の客席を回さなきゃいけないんだから。<br />
+勘違いしてしまった人が「コスパが悪い」なんて言ったって仕方ない。</p>
+<p>じゃあなんだろう。<br />
+なぜ人はメイドカフェに「通う」いや「ご帰宅」するのだろう？</p>
+<p>いや、通うことを意味があるのではないだろうか？<br />
+その通い続ければ、店員さんや常連さんと顔見知りになる。<br />
+顔見知りになれば、なるほど安心してその場にいることができる。</p>
+<p>コンセプトなんて行くための言い訳でしかないのではないか？</p>
+<p>本質は「通う」こと「ご帰宅」することではない？か？</p>
+<p>自分が居心地が良い「コンセプト」を選んで「メイドとか、そういうのが好き」という共通項で、人が集まる「場所」があるって素晴らしいことではないだろうか？</p>
+<p>じゃあ、メイドってなんだろう。<br />
+もっと考えてみたい。</p>
+<p>この分析はトンネルを両側から堀り始めつつ、まだ繋がっていない気がする。</p>
+<p>せっかくメイドアドベントカレンダーをやっているのだから、この機会に分析してみたい。</p>
+<p>ということで、引き続き、<a href="https://adventar.org/calendars/4488">メイドアドベントカレンダー</a>をよろしくお願いします！</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.maid-cafe.work/blog/2019/897/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>2019年メイドカフェでノマド会総会を報告と本年度の活動方針</title>
+		<link>https://www.maid-cafe.work/blog/2019/859</link>
+					<comments>https://www.maid-cafe.work/blog/2019/859#respond</comments>
+		
+		<dc:creator><![CDATA[susumuis]]></dc:creator>
+		<pubDate>Sat, 23 Feb 2019 07:34:27 +0000</pubDate>
+				<category><![CDATA[ノマド会運営報告]]></category>
+		<guid isPermaLink="false">http://www.maid-cafe.work/?p=859</guid>
+
+					<description><![CDATA[今年も、ノマド会総会を開催し、参加者の皆さんと活動方針についての意見交換を行いました。 議題と議事録 総会では次のことを話し合いました。 ​1.​ 2018年度活動報告 ​2.​ 2018年度会計報告 ​3.​ 2019 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>今年も、<a href="https://docs.google.com/document/d/1uZCC9kPKqnzO8GtCLAFb08b05WHOdz6c-LjzT9pMUvc/edit?usp=sharing">ノマド会総会</a>を開催し、参加者の皆さんと活動方針についての意見交換を行いました。</p>
+<h2>議題と議事録</h2>
+<p>総会では次のことを話し合いました。</p>
+<ul>
+<li>​1.​ 2018年度活動報告</li>
+<li>​2.​ 2018年度会計報告</li>
+<li>​3.​ 2019年度活動について
+<ul>
+<li>​3.1.​ ノマド会の目的と社会の現状確認</li>
+<li>3.2.​ ノマド会の現状と社会への役割
+<ul>
+<li>現状</li>
+<li>社会への役割</li>
+</ul>
+</li>
+<li>​3.3.​ 2019年に活動計画</li>
+<li>​3.4.​ 体制図</li>
+<li>​3.5.​ 規約確認</li>
+</ul>
+</li>
+<li>​4.​ 各種議題
+<ul>
+<li>​4.1.​ 相談：ノマド会の納税申告について</li>
+<li>​4.2.​ 相談：イベントオーガナイザーの負担と報酬について</li>
+<li>​4.3.​ 提案：ノマド会会員制度</li>
+</ul>
+</li>
+</ul>
+<p>詳しい内容に興味がある方は議事録を公開していますので御覧ください。</p>
+<p><a href="https://docs.google.com/document/d/1uZCC9kPKqnzO8GtCLAFb08b05WHOdz6c-LjzT9pMUvc">メイドカフェでノマド会総会2019議事録</a></p>
+<h2>2019年度活動方針</h2>
+<p>総会の内容を踏まえ、本年度の活動方針は次のとおりとします</p>
+<ol>
+<li style="list-style-type: none;">
+<ol>
+<li>良い作業環境を作ることを活動の心臓とする</li>
+<li>ノマド会のメリットをメディアに発信してもらう</li>
+<li>&gt;参加者に良いオタク体験をしてもらう</li>
+<li>ノマドワークのマナーを啓蒙</li>
+<li>良い「コミュニティ」として成熟する</li>
+</ol>
+</li>
+</ol>
+<p>基本的に2018年のものを踏襲しました。「開催回数」は既に増えているから、2019年度は意識しなくていいと考え、削りました。</p>
+<p>一方「コミュニティ」の重要性にフォーカスする部分を加えました。関わる人にとって「良いコミュニティ」であると同時に、「ななカフェ」など他のイベント・コミュニティを運営している方にも参考にしてもらえるように、オープンに運営し、仕組みを実態に合わせて整備していきたいと思います。</p>
+<p>具体策については議事録の末尾に記載しています。興味があれば御覧ください。</p>
+<p><a href="https://docs.google.com/document/d/1uZCC9kPKqnzO8GtCLAFb08b05WHOdz6c-LjzT9pMUvc/edit#heading=h.9lmt122tbwan">総会を踏まえた具体策</a></p>
+<h2>総評</h2>
+<p>メイドカフェでノマド会は<a href="https://maid-cafe-nomad.connpass.com/event/43159/">第一回</a>（2016/11/2）の開催から2年3ヶ月経過し、開催イベントは100近くになりました。</p>
+<p>最近はメディアの方からの取材の申込みや、イベントのコラボレーションのご相談を受けるなど、社会との接点が増えてきています。また、「ななカフェ」さんなど、他のグループの方から運営の参考にしていただくようにもなりました。そのことを踏まえ、他の組織の模範となるオープンで法令を遵守する運営体制を固めることが求められている段階ではないかと思います。</p>
+<p>その一方で、ヒエラルキーのない、自由なコミュニティと評価いただけている部分を失わなわず、むしろ強化して行けるようにしたいです。</p>
+<p>そのためには、関わる人たちと対話をしていきながら、やるべきことを行っていきたいと思います。メイドカフェでノマド会の運営に興味がある方は是非 <a href="https://join.slack.com/t/maid-cafe-nomad/shared_invite/enQtNDM4NTkyNDk0MzczLWVhYTFlYjkwNWEzMTNkNTYzNDg5MzlhMDZjYjZkMWI4ZmQ3ZjJjOWZhZGVkZmFhNzkzNDVlMTVmOWY1Mzg5ODQ">Slack</a> へご参加ください。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.maid-cafe.work/blog/2019/859/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>メイドカフェでノマド会2018年度会計報告</title>
+		<link>https://www.maid-cafe.work/blog/2018/850</link>
+					<comments>https://www.maid-cafe.work/blog/2018/850#respond</comments>
+		
+		<dc:creator><![CDATA[susumuis]]></dc:creator>
+		<pubDate>Sun, 30 Dec 2018 13:29:15 +0000</pubDate>
+				<category><![CDATA[ノマド会運営報告]]></category>
+		<guid isPermaLink="false">http://www.maid-cafe.work/?p=850</guid>
+
+					<description><![CDATA[メイドカフェでノマド会1年間の会計が締まりましたので、報告いたします。 科目について メイドカフェでノマド会はその活動目的である「メイドカフェでノマドワークができることを広く認知させる」ためのイベントを行うことを主たる「 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>メイドカフェでノマド会1年間の会計が締まりましたので、報告いたします。</p>
+<h2>科目について</h2>
+<p>メイドカフェでノマド会はその活動目的である「メイドカフェでノマドワークができることを広く認知させる」ためのイベントを行うことを主たる「<strong>事業</strong>」と定義しています。</p>
+<p>具体的には、メイドカフェ貸切のノマド会や、定時後の自習室、ノマド朝会などの「参加費」を<strong>事業収入</strong>とし、そのために必要であった人件費や物品購入費、会場代、衣装レンタル代等を<strong>事業支出</strong>、その他の収入を<strong>雑収入</strong>、その他の支出を<strong>管理費およびその他費用</strong>と定義しています。</p>
+<p>メイドカフェでノマド会は人を雇用していないため、人件費は「<strong>報酬</strong>」という科目になります。ただしメイドさんが自らメイド服を持ち込んだ場合に洗濯代などのために支払っている「衣装持ち込み報酬」は、より実態に合わせ、衣装を店舗等からレンタルした場合の<strong>衣装代</strong>とまとめました。</p>
+<p>会場提供報酬・メンター報酬は、定時後の自習室でメンター兼会場提供者としての石上が受け取った報酬です。11月以降は「メンター報酬」が「ノマド会会計部」にて認められたため<strong>メンター報酬</strong>としてまとめられます。</p>
+<h2>収支計算書</h2>
+<p>（単位：円）</p>
+<h3>収入の部</h3>
+<ul>
+<li>前年度繰越金: 24,056</li>
+<li>事業収入:  430,100
+<ul>
+<li><em>イベント参加費: (430,100)</em></li>
+</ul>
+</li>
+<li>雑収入:       18,001
+<ul>
+<li><em>忘年会参加費 (2,000)</em></li>
+<li><em>お花見参加費 (16,000)</em></li>
+<li><em>Square振込 (1)</em></li>
+</ul>
+</li>
+</ul>
+<p>当期収入合計:  (451,101)</p>
+<p><strong>収入合計: 475,157</strong></p>
+<h3>支出の部</h3>
+<ul>
+<li>事業費:
+<ul>
+<li>メイド報酬:      143,000</li>
+<li>会場費:                136,500</li>
+<li>会場提供報酬: 35,500</li>
+<li>消耗品費:           20,652</li>
+<li>衣装代:                20,500</li>
+<li>メンター報酬: 10,000</li>
+<li>手数料:                7,020
+<ul>
+<li><em>PAYPAL手数料  (6,764)</em></li>
+<li><em>振込手数料       (216)</em></li>
+<li><em>返金手数料       (40)</em></li>
+</ul>
+</li>
+<li>交通費:               3,670</li>
+</ul>
+</li>
+<li>管理費およびその他費用:
+<ul>
+<li>交際費:               29,058
+<ul>
+<li><em>お花見用飲食代            (11,399)</em></li>
+<li><em>お花見用備品                 (2,235)</em></li>
+<li><em>お歳暮                                 (2,160)</em></li>
+<li><em>運営者懇親会飲食代 (3,456)</em></li>
+<li><em>懇親会飲食代                 (4,212)</em></li>
+<li><em>忘年会飲食代                 (5,596)</em></li>
+</ul>
+</li>
+<li>旅費交通費:     26,240
+<ul>
+<li><em>大阪出張往復:   (26,240)</em></li>
+</ul>
+</li>
+<li>会議費:               8,250
+<ul>
+<li><em>総会会場費:                           (7,000)</em></li>
+<li><em>事前打ち合わせ飲食代: (1,250)</em></li>
+</ul>
+</li>
+<li>広告宣伝費:     3,800
+<ul>
+<li><em>ノマド会名刺発行: (3,800)</em></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>次年度繰越金: 30,967</li>
+</ul>
+<p>事業費合計: (376,842)</p>
+<p>管理費およびその他費用合計: ( 67,348 )</p>
+<p>当期支出合計:  (444,190)</p>
+<p><strong>支出合計: 475,157</strong></p>
+<h2>ノマド会会計部について</h2>
+<p>ノマド会会計部は<a href="https://join.slack.com/t/maid-cafe-nomad/shared_invite/enQtNDM4NTkyNDk0MzczLWVhYTFlYjkwNWEzMTNkNTYzNDg5MzlhMDZjYjZkMWI4ZmQ3ZjJjOWZhZGVkZmFhNzkzNDVlMTVmOWY1Mzg5ODQ">Slack</a>に「#ノマド会会計部」という公開チャネルを作成して随時運用を報告しています。公開チャネルなので、参加費の使途について興味ある方は誰でも見ることができます。</p>
+<p>正式な会計の承認は年に一度の総会にて行われますが、このように参加者の方から随時意見をもらうことによって公正かつ迅速に運用させてもらっています。</p>
+<p><a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/43381a83c18d8f1e527ef5b73ce5ea72.png"><img loading="lazy" decoding="async" class="alignnone  wp-image-853" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/43381a83c18d8f1e527ef5b73ce5ea72.png" alt="" width="543" height="221" srcset="https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/43381a83c18d8f1e527ef5b73ce5ea72.png 638w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/43381a83c18d8f1e527ef5b73ce5ea72-300x122.png 300w" sizes="(max-width: 543px) 100vw, 543px" /></a></p>
+<p><a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/98f101f2979e5381357ab1a652df35b0.png"><img loading="lazy" decoding="async" class="alignnone  wp-image-852" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/98f101f2979e5381357ab1a652df35b0.png" alt="" width="556" height="336" srcset="https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/98f101f2979e5381357ab1a652df35b0.png 768w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/98f101f2979e5381357ab1a652df35b0-300x181.png 300w" sizes="(max-width: 556px) 100vw, 556px" /></a></p>
+<p><a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/e21da43e716cd6ec8353452a2591c5dd.png"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-851" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/e21da43e716cd6ec8353452a2591c5dd.png" alt="" width="792" height="222" srcset="https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/e21da43e716cd6ec8353452a2591c5dd.png 792w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/e21da43e716cd6ec8353452a2591c5dd-300x84.png 300w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/e21da43e716cd6ec8353452a2591c5dd-768x215.png 768w" sizes="(max-width: 792px) 100vw, 792px" /></a></p>
+<h2>総会について</h2>
+<p>こちらの投稿をもって、年明けに行われる2019年度ノマド会総会での報告資料とさせていただきます。</p>
+<p>こちらの内容についての議論に興味がある方は、是非総会に参加してください。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.maid-cafe.work/blog/2018/850/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>祝！メイドアドベントカレンダー2018がコンプリートしました！?</title>
+		<link>https://www.maid-cafe.work/blog/2018/844</link>
+					<comments>https://www.maid-cafe.work/blog/2018/844#respond</comments>
+		
+		<dc:creator><![CDATA[susumuis]]></dc:creator>
+		<pubDate>Mon, 24 Dec 2018 15:00:51 +0000</pubDate>
+				<category><![CDATA[コラム]]></category>
+		<category><![CDATA[メイドアドベントカレンダー]]></category>
+		<guid isPermaLink="false">http://www.maid-cafe.work/?p=844</guid>
+
+					<description><![CDATA[この記事はメイドアドベントカレンダー2018の25日目です！ ?メリークリスマス！? 今日は25日目ということでメイドアドベントカレンダー2018の総括を書きたいと思います。 コンプリートしました！✨ 2016年に始まっ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>この記事は<a href="https://adventar.org/calendars/3422">メイドアドベントカレンダー2018</a>の25日目です！</p>
+<p>?メリークリスマス！?</p>
+<p>今日は25日目ということでメイドアドベントカレンダー2018の総括を書きたいと思います。</p>
+<h2>コンプリートしました！<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2728.png" alt="✨" class="wp-smiley" style="height: 1em; max-height: 1em;" /></h2>
+<p>2016年に始まったメイドアドベントカレンダーは、3年目にしてにして、ついにコンプリートを達成しました！?</p>
+<p>これまでの登録数、投稿数の推移は次のとおりです。</p>
+<table>
+<tbody>
+<tr>
+<th>年度</th>
+<th>登録数</th>
+<th>投稿数</th>
+</tr>
+<tr>
+<td><a href="https://adventar.org/calendars/1568">2016</a></td>
+<td>6</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a href="https://adventar.org/calendars/2107">2017</a></td>
+<td>19</td>
+<td>17</td>
+</tr>
+<tr>
+<td><a href="https://adventar.org/calendars/3422">2018</a></td>
+<td>25 ?</td>
+<td>25 ?</td>
+</tr>
+</tbody>
+</table>
+<p>登録いただけるだけでも嬉しいのに、今年は全員約束通りに記事を投稿してくれました。お忙しい中ありがとうございます！毎日メイド関係の記事がアップされていったのは楽しかったです！</p>
+<p>去年一昨年と比較してみても、毎日埋まってるっていいですね！みんなで作ったアドベントカレンダー感が出ています！</p>
+<p><a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2017/12/cbc981bc2f86a9ec9a65dc2918abb513.png"><img loading="lazy" decoding="async" class="alignnone wp-image-574" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2017/12/cbc981bc2f86a9ec9a65dc2918abb513.png" alt="" width="288" height="235" srcset="https://www.maid-cafe.work/wp-content/uploads/sites/2/2017/12/cbc981bc2f86a9ec9a65dc2918abb513.png 693w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2017/12/cbc981bc2f86a9ec9a65dc2918abb513-300x245.png 300w" sizes="(max-width: 288px) 100vw, 288px" /></a> <a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2017/12/93b5fa4b0c79b5d35de2d8ef07f3635b.png"><img loading="lazy" decoding="async" class="alignnone wp-image-575" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2017/12/93b5fa4b0c79b5d35de2d8ef07f3635b.png" alt="" width="277" height="232" srcset="https://www.maid-cafe.work/wp-content/uploads/sites/2/2017/12/93b5fa4b0c79b5d35de2d8ef07f3635b.png 684w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2017/12/93b5fa4b0c79b5d35de2d8ef07f3635b-300x251.png 300w" sizes="(max-width: 277px) 100vw, 277px" /></a></p>
+<p><a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/Screenshot_20181224-1758202.jpg"><img loading="lazy" decoding="async" class="alignnone wp-image-845" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/Screenshot_20181224-1758202-922x1024.jpg" alt="" width="567" height="630" srcset="https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/Screenshot_20181224-1758202-922x1024.jpg 922w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/Screenshot_20181224-1758202-270x300.jpg 270w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/Screenshot_20181224-1758202-768x853.jpg 768w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/Screenshot_20181224-1758202.jpg 1080w" sizes="(max-width: 567px) 100vw, 567px" /></a></p>
+<h2>メイドアドベントカレンダーとは</h2>
+<p>そもそもアドベントカレンダーとは何でしょうか。IT系ではないメイド界隈の人たちにはまだ馴染み深くないかもしれませんので説明します。<a href="https://adventar.org/">Adventar</a>というアドベントカレンダーを束ねるサイトには次のように書かれています。</p>
+<blockquote><p>Advent Calendarは本来、12月1日から24日までクリスマスを待つまでに1日に1つ、穴が空けられるようになっているカレンダーです。WebでのAdvent Calendarは、その風習に習い、12月1日から25日まで1日に1つ、みんなで記事を投稿していくというイベントです。</p></blockquote>
+<p>アドベントカレンダーはもともとWeb, IT系の人たちを中心に始まった習慣です。メイド界隈（メイドカフェ、メイド服、メイド研究、等）でもブログを書いたり発信している人は多く、イベント等交流は盛んですが、IT系と交わることは少なく、アドベントカレンダーのようなイベントをやっている人は私の観測する限りでは見かけられませんでした。</p>
+<p>IT系で始まった文化の中にはメイド界隈にも相性が良いと思うことは多くあります。その中でもアドベントカレンダーは絶対メイド界隈でやっても盛り上がると思って始めてみました。</p>
+<p>テーマはメイドにかすっていれば何でも可です！普段からメイド関係の記事を書いている人、メイドさん本人であれば何を書いても良いし、「メイドさん可愛い」でも、「好きなメイドカフェの説明」でもなんでもOKです。</p>
+<h2>分類と総括</h2>
+<p>それでは無事コンプリートした、25の記事について、今年も総括させていただこうと思います。</p>
+<p>今回は次のように分類させていただきました。</p>
+<ul>
+<li>参加者視点でのメイドカフェでノマド会</li>
+<li>メイドイベント運営者の考え</li>
+<li>メイドカフェに関する様々な評論</li>
+<li>店舗・イベント紹介</li>
+<li>ハードルを下げるゆる記事</li>
+<li>一年の振り返り</li>
+<li>メイドカフェでの思い出</li>
+<li>技術記事（仮）</li>
+</ul>
+<h3>参加者視点でのメイドカフェでノマド会</h3>
+<ul>
+<li><a href="http://c80py.hatenablog.com/entry/2018/12/02/190733?_ga=2.69858832.1097930693.1543628765-1964647493.1527406712">メイドカフェノマド会に参加するようになったきっかけ &#8211; moca.py</a></li>
+<li><a href="https://zyundamochi080.hatenablog.com/entry/2018/12/13/090000">学生目線から見た「メイドカフェでノマド会」 &#8211; けーじーのブログ</a></li>
+</ul>
+<p>このアドベントカレンダーは「メイドカフェでノマド会」とは関係ありませんが、メイドアドベントカレンダーを呼びかけた私が代表をやっているということもあって、ノマド会をご紹介くださる記事を書いてくれた方、記事の中で触れていただいた方が多くいました。</p>
+<h3>メイドイベント運営者の考え</h3>
+<ul>
+<li><a href="http://www.maid-cafe.work/2018/753">メイドカフェでノマド会にメイドさんがいる理由 | メイドカフェでノマド会公式サイト公式サイト</a></li>
+<li><a href="http://www.maid-cafe.work/2018/604">メイド好きがメイドさんとイベントを運営する時気をつけるべきこと | メイドカフェでノマド会公式サイト公式サイト</a></li>
+</ul>
+<p>一方こちらは運営者視点としての私の記事です。なんと言っても、メイドカフェ一利用者に過ぎなかった私が、自らメイドさんをまとめてイベントを開催するという、びっくりするような状況になっていたので、そのことを前から書きたいと思っていました。</p>
+<p>もともとは1つの記事として書こうとしましたが「テーマが分かれているな」と思ったことと、長くなってしまったので記事を分けました。</p>
+<h3>メイドカフェに関する様々な評論</h3>
+<ul>
+<li><a href="https://blog.goo.ne.jp/otaku_real/e/3fc13173ff3a80786230964145128d2d">浮気のライン-メイド喫茶に、ガールズバーに通ったら浮気？-　S.O.L &#8211; ヲタクとリア充の狭間</a></li>
+<li><a href="https://blog.kawaiimaid.com/entry/2018/12/08/205142">怖くないメイドカフェ選び方ガイド &#8211; かわいいメイドカフェ・メイド喫茶</a></li>
+<li><a href="https://ameblo.jp/geruim2000/entry-12425456974.html">推しを他の人に明かすことについて | geruiのブログ</a></li>
+<li><a href="https://ameblo.jp/geruim2000/entry-12426731038.html">メイドさんとの「恋愛」について | geruiのブログ</a></li>
+</ul>
+<p>今年も、メイドカフェ利用の周辺で起こる様々なことについての考察記事を</p>
+<h3>店舗・イベント紹介</h3>
+<ul>
+<li><a href="https://so47.coresv.com/blog/2018/12/03/not-common-nomad-place/">ノマドが出来る変な場所NoneValue.log | NoneValue.log</a></li>
+<li><a href="http://hiji.hatenablog.com/entry/2018/12/15/125933">女一人でメイドカフェに行ったら「映えた」メニューまとめ！ &#8211; 肘日記</a></li>
+<li><a href="http://www.maid-cafe.work/2018/816">メイドさんと一緒に楽しく学びました！ | メイドカフェでノマド会公式サイト公式サイト</a></li>
+<li><a href="http://maidcafe-portal.com/2018/12/23/secretchamber%e3%81%a7%e3%83%ad%e3%83%b3%e3%82%b0%e3%83%a1%e3%82%a4%e3%83%89%e3%82%92%e6%8b%9d%e3%81%bf%e5%80%92%e3%81%99/">SecretChamberでロングメイドを拝み倒す | メイドカフェポータルZ</a></li>
+</ul>
+<p>こちらは店舗やイベントの紹介記事としてまとめました。「ノマドが出来る変な場所」ではメイドカフェと同列に「メイドカフェでノマド会」のことを書いて頂いてしまって恐縮です。</p>
+<blockquote><p>主催者も参加者もメイドさんが大好きなので、スイッチが入ると止まらないのは仕様です。</p></blockquote>
+<p>(；・∀・)あははは。どちらかというとクラシカルな雰囲気のメイドカフェがすきなんですが、スイッチ入っちゃうと止まらないね(｡&gt;﹏&lt;｡)</p>
+<p>女性視点のレポート記事も素敵でした。確かにメイドカフェのメニューは写真映えするものが多く、女性の方が利用されるとまさに「お嬢様」という感じで素敵です。SecretChamberは私も今年初めて利用しましたが雰囲気が素敵なお店でした。</p>
+<p>私はAndroidの会秋葉原支部・学生部合同のイベントを紹介させていただきました。あるときからこちらのイベントに皆勤状態だったので、ある意味「推しイベント」だったと思います。</p>
+<h3>ハードルを下げるゆる記事</h3>
+<ul>
+<li><a href="http://www.maid-cafe.work/2018/797">ネタがないから「メイドちゃん」と会話した | メイドカフェでノマド会公式サイト公式サイト</a></li>
+<li><a href="https://ameblo.jp/nittoboumegane/entry-12420895798.html">その後のじゆうちょう　特別編　かかりつけのメイドカフェは何店舗？ | ニット帽メガネの徒然ならないブログ</a></li>
+<li><a href="https://twitter.com/mocamocaland/status/1074312715718471680">morich on Twitter: &#8220;#maidnomad 明後日は幻橙館に行くぞい！ ノマドするかどうかは分かりません。&#8221;</a></li>
+<li><a href="https://twitter.com/mocamocaland/status/1075780404345327617">morich on Twitter: &#8220;#maidnomad 久々に幻橙館にてノマド作業 しばらく外で作業することがなくなっていたのでちょうどいい気分転換になった。 昨日投稿するつもりが日が変わってました。ごめんなさい。&#8221;</a></li>
+</ul>
+<p>「アドベントカレンダー」（ブログ）ってITエンジニアを中心として広がった文化なので、メイド界隈の人たちにハードルを下げたいと思いがありました。そんなわけで、「メイド」にかすってたら何でもあり、参加表明してくれるだけで嬉しいということを伝えたく、Tweetの貼り付けもありとしました。</p>
+<p>興味がありつつ躊躇されていた方も、ハードルは低いですので、是非来年ご参加してください！</p>
+<h3>一年の振り返り</h3>
+<ul>
+<li><a href="http://maidcafe-portal.com/2018/12/09/%e3%82%b3%e3%83%b3%e3%82%ab%e3%83%95%e3%82%a7%e3%82%aa%e3%82%bf%e3%82%af%e3%81%8c%e9%9b%91%e3%81%ab%e4%b8%80%e5%b9%b4%e3%82%92%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8b/">コンカフェオタクが雑に一年を振り返る | メイドカフェポータルZ</a></li>
+<li><a href="http://www.maid-cafe.work/2018/813">メイドカフェでノマド会2018年の振り返り | メイドカフェでノマド会公式サイト公式サイト</a></li>
+<li><a href="https://www.cosp.jp/profile_diary.aspx?id=438570&amp;d=20181221">奈々 【コスプレイヤーズアーカイブ】&#8211;ダイアリー&#8211;</a></li>
+</ul>
+<p>一年の振り返りを書いてくれた方々です。12月は一年を振り返るのに最適な季節です。一年の振り返りにメイドさんがいるって良いですよね。</p>
+<h3>メイドカフェでの思い出</h3>
+<ul>
+<li><a href="http://maidse.hatenablog.jp/entry/2018/12/10/235900">メイドやめて6年近くになりました。 &#8211; 元メイドSEのふわとろ脳ミソ</a></li>
+<li><a href="https://ameblo.jp/geruim2000/entry-12425159390.html">私の1人目の推しへの感謝 | geruiのブログ</a></li>
+<li><a href="https://ameblo.jp/nittoboumegane/entry-12427073446.html">その後のじゆうちょう　特別編　いしがみさんとの馴れ初め | ニット帽メガネの徒然ならないブログ</a></li>
+<li><a href="https://ameblo.jp/alicetea17yz/entry-12428074446.html">私のメイド人生はこんな感じで今も続いています | 我慢をやめたら理想の彼がやって来る♡恋愛レッスン</a></li>
+</ul>
+<p>こちらは1年ではなく、メイドカフェに関するもっと前のことを思い出す記事を書いていただいた方々の記事です。メイドさん視点でも、利用者視点でも、メイドカフェは様々な出会いがあり、様々な思いがめぐらされる場所ではないでしょうか。素敵な思い出を書いていただきありがとうございます。</p>
+<h3>技術記事（仮）</h3>
+<ul>
+<li><a href="http://www.susumuis.info/entry/2018/bot">メイドちゃんbotの今と前世? | susumuis Info</a></li>
+</ul>
+<p>「アドベントカレンダー」らしくソースコードがある記事はこちらが唯一でした。メイドカフェでノマド会のSlackにはメイドちゃんbotがいるのですが、本物のメイドさんと同じようにみんなのコミュニケーションを円滑にして場をなごませてくれる存在を目指して開発しています。そして意外な前世があるという話でした。</p>
+<h2>まとめ</h2>
+<ol>
+<li>メイドアドベントカレンダーは2016年から始まって今年で3年目</li>
+<li>2018年は3年目にしてついにコンプリートを達成！</li>
+<li>アドベントカレンダーはWeb, IT系から始まった文化で、メイド界隈にも相性が良さそうだと思って始めた</li>
+<li>内容は次のように様々だった
+<ol>
+<li>参加者視点でのメイドカフェでノマド会</li>
+<li>メイドイベント運営者の考え</li>
+<li>メイドカフェに関する様々な評論</li>
+<li>店舗・イベント紹介</li>
+<li>ハードルを下げるゆる記事</li>
+<li>一年の振り返り</li>
+<li>メイドカフェでの思い出</li>
+<li>技術記事（仮）</li>
+</ol>
+</li>
+</ol>
+<p>今年もアドベントカレンダーを通じて出会いがあり、毎日様々な記事を読めて楽しかったです。記事を書いてくれた方も、読者として応援してくれた方も、ありがとうございました。無事コンプリートを達成できたのは皆さんのおかげです。（発案者の僕が一人で7回も書いてしまいましたが、もっと自重しても良かったかもしれませんね^^;）</p>
+<p>来年もまたメイドアドベントカレンダー2019を開催したいと思います。今年参加された方も、今年は参加を見送られた方もまたご一緒できたら嬉しいです。来年もコンプリートできたら嬉しいですが、コンプリートしたかどうかにこだわらず、また楽しめたら良いなと思います！</p>
+<p>メリークリスマス！そして、来年もよろしくお願い致します。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.maid-cafe.work/blog/2018/844/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>メイドさんと一緒に楽しく学びました！</title>
+		<link>https://www.maid-cafe.work/blog/2018/816</link>
+					<comments>https://www.maid-cafe.work/blog/2018/816#respond</comments>
+		
+		<dc:creator><![CDATA[susumuis]]></dc:creator>
+		<pubDate>Sun, 16 Dec 2018 15:34:58 +0000</pubDate>
+				<category><![CDATA[イベント報告]]></category>
+		<category><![CDATA[メイドアドベントカレンダー]]></category>
+		<guid isPermaLink="false">http://www.maid-cafe.work/?p=816</guid>
+
+					<description><![CDATA[この記事はメイドアドベントカレンダー2018の17日目です。 今日は、昨日開催された メイドさんと一緒に楽しく学ぶAndroidアプリ開発入門セミナー第4回・涙の卒業編 を紹介します。 このイベントは何ですか？ 日本An [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>この記事は<a href="https://adventar.org/calendars/3422">メイドアドベントカレンダー2018</a>の17日目です。</p>
+<p>今日は、昨日開催された <a href="https://jagsa.connpass.com/event/109552/">メイドさんと一緒に楽しく学ぶAndroidアプリ開発入門セミナー第4回・涙の卒業編</a> を紹介します。</p>
+<h2>このイベントは何ですか？</h2>
+<p>日本Androidの会秋葉原支部と、日本Androidの会学生部が合同で開催するイベントです。秋葉原支部のおじさんたちによって英才教育を受けたプログラミングメイドさんたちが、先生として登壇し、未来を担う学生たちにITを教える活動を行っています。</p>
+<p>このブログでも度々紹介しました。</p>
+<blockquote class="wp-embedded-content" data-secret="DSZROMmis6"><p><a href="http://www.maid-cafe.work/2016/189">びっくり！！学生向けプログラミング勉強会でメイドさんが講師に！！</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="http://www.maid-cafe.work/2016/189/embed#?secret=DSZROMmis6" data-secret="DSZROMmis6" width="600" height="338" title="&#8220;びっくり！！学生向けプログラミング勉強会でメイドさんが講師に！！&#8221; &#8212; メイドカフェでノマド会公式サイト" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<blockquote class="wp-embedded-content" data-secret="5fdi8ZVN3N"><p><a href="http://www.maid-cafe.work/2017/323">メイドさんと一緒にAndroidアプリ開発を学生に教えてきた</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="http://www.maid-cafe.work/2017/323/embed#?secret=5fdi8ZVN3N" data-secret="5fdi8ZVN3N" width="600" height="338" title="&#8220;メイドさんと一緒にAndroidアプリ開発を学生に教えてきた&#8221; &#8212; メイドカフェでノマド会公式サイト" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<blockquote class="wp-embedded-content" data-secret="6NUyH9jEtP"><p><a href="http://www.maid-cafe.work/2017/359">夏は浴衣のメイドさんと一緒にプログラミング！</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="http://www.maid-cafe.work/2017/359/embed#?secret=6NUyH9jEtP" data-secret="6NUyH9jEtP" width="600" height="338" title="&#8220;夏は浴衣のメイドさんと一緒にプログラミング！&#8221; &#8212; メイドカフェでノマド会公式サイト" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>このようにこれまで3回開催しましたが、秋葉原支部としてのメイドさんの活動が終了するため、今回で涙の最終回ということです。</p>
+<h1>6年間の活動の集大成</h1>
+<p>日本Androidの会秋葉原支部では6年前からメイドさんとAndroidの勉強をする活動を続けていました。キーワードは「教えることは教わること、教わることは教えること」「何も知らないメイドさんに英才教育を施し」「知的活動と萌えの融合に挑戦し、学びの哲学を探求する」という活動を続けてきました。</p>
+<p>日本Androidの会秋葉原支部では支部長として代々秋葉原のメイドさんが担当していました。</p>
+<p>今となっては、メイドカフェノマドやメイドプログラミングなどは一般的になりつつありますが、6年前はもっとメイドとITの文化は距離があるものでした。</p>
+<p>メイドカフェでノマド会の代表である筆者も4年前から活動に参加しましたが、この会が存在しなければメイド x ITの可能性を考えることもなかったと思います。</p>
+<p>そういう意味では、この会こそメイド x IT界のパイオニアだったと思います。</p>
+<p><a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC02589-e1544971835750.jpg"><img loading="lazy" decoding="async" class="alignnone size-large wp-image-834" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC02589-1024x681.jpg" alt="" width="604" height="402" /></a></p>
+<p>&nbsp;</p>
+<p>こちらは学びの哲学について熱弁を奮っている秋葉原支部代表代行の小暮さんです。</p>
+<p><a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05639.jpg"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-818" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05639.jpg" alt="" width="4592" height="3056" /></a></p>
+<p>「ヘンタイ部ではありません！」このスライドが見れるのも最後なんですね(^^;</p>
+<h2>今回のメイドさん紹介</h2>
+<p>この日は4人のメイドさんが活躍されました。</p>
+<h3>日向いくのさん</h3>
+<p><a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05699.jpg"><img loading="lazy" decoding="async" class="alignnone wp-image-823 size-large" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05699-1024x681.jpg" alt="" width="604" height="402" /></a></p>
+<h3>卯月ほのかさん</h3>
+<p><a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05751.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-824" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05751-300x200.jpg" alt="" width="300" height="200" /></a></p>
+<h3>鈴峰きりさん</h3>
+<p><a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/kiri.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-821" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/kiri-193x300.jpg" alt="" width="193" height="300" srcset="https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/kiri-193x300.jpg 193w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/kiri.jpg 660w" sizes="(max-width: 193px) 100vw, 193px" /></a></p>
+<h3>いのりさん</h3>
+<p><a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05803.jpg"><img loading="lazy" decoding="async" class="alignnone wp-image-822 size-large" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05803-1024x681.jpg" alt="" width="604" height="402" /></a></p>
+<p>いのりさんは、Androidの会学生部の部長を務める現役の学生さんです。今日だけ特別にメイド服を着てくれました。学生部はこれからも活動していくので、この会の趣旨を継承するという役目も担っています。</p>
+<p>また、今回メイドさんが説明するテキストや使用するプログラムも学生部の方が作ってくれました。こちらがスライド作成を担当した星さんです。</p>
+<p><a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05627.jpg"><img loading="lazy" decoding="async" class="size-medium wp-image-820" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05627-300x200.jpg" alt="" width="300" height="200" /></a></p>
+<h2>メイドさんならではの役割</h2>
+<p>メイドさんはただシナリオ通りに話すだけではありません。</p>
+<p>Androidプログラミングは、各自のAndroid端末とPCを接続する必要があります。それは数多の組み合わせがあり、通り一辺倒に示すことができません。必ずハマります。だから一人ひとりトラブルが起きていないか見て回り、起きていたら一つ一つ解決して行く必要があります。</p>
+<p>メイドさんも秋葉原支部、学生部のスタッフと一緒に席を回って見てくれていました。</p>
+<p>筆者も4年前に初めてこのイベントに参加し、メイドさんにAndroidプログラミングを教えてもらいました。その時もPCの調子が悪くフリーズしたりしている間も待ってくれて、この勉強会はどの勉強会よりも優しいなって思いました。</p>
+<p>先に進んでしまって待っている方も、メイドさんを眺めていれば可愛く癒やされるんでイライラせずに一体感が保てるのでしょう。</p>
+<p>また、勉強会にグループで参加される方はグループ内で助け合うことができますが、一人で参加すると、ともすれば孤立してしまって寂しい思いをすることがあります。メイドさんが間に入っていくことによって、そういった孤立を防ぎ、全員が話しやすい雰囲気ができていました。</p>
+<p><a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/P_20181216_163821_vHDR_Auto.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-825" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/P_20181216_163821_vHDR_Auto-300x225.jpg" alt="" width="300" height="225" /></a> <a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/P_20181216_164001_vHDR_Auto.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-826" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/P_20181216_164001_vHDR_Auto-300x225.jpg" alt="" width="300" height="225" /></a></p>
+<p><a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/P_20181216_163821_vHDR_Auto.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-825" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/P_20181216_163821_vHDR_Auto-300x225.jpg" alt="" width="300" height="225" /></a> <a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC02600.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-832" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC02600-300x200.jpg" alt="" width="300" height="200" /></a> <a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05717.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-831" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05717-300x200.jpg" alt="" width="300" height="200" /></a> <a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05790.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-827" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05790-300x200.jpg" alt="" width="300" height="200" /></a> <a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/P_20181216_164001_vHDR_Auto.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-826" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/P_20181216_164001_vHDR_Auto-300x225.jpg" alt="" width="300" height="225" /></a> <a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05790-1.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-830" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05790-1-300x200.jpg" alt="" width="300" height="200" /></a> <a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05796.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-829" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05796-300x200.jpg" alt="" width="300" height="200" /></a> <a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05791.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-828" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05791-300x200.jpg" alt="" width="300" height="200" /></a></p>
+<h2>メイドさんが活躍する姿</h2>
+<p>あとは、言葉で説明するよりも写真を見ていただいたほうが雰囲気は伝わるでしょう。</p>
+<p><a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05751-1-e1544972272614.jpg"><img loading="lazy" decoding="async" class="alignnone wp-image-840 size-medium" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05751-1-300x200.jpg" alt="" width="300" height="200" /></a> <a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05702-e1544972285487.jpg"><img loading="lazy" decoding="async" class="alignnone wp-image-839 size-medium" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05702-300x200.jpg" alt="" width="300" height="200" /></a> <a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05681-e1544972301498.jpg"><img loading="lazy" decoding="async" class="alignnone size-large wp-image-838" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05681-1024x681.jpg" alt="" width="604" height="402" /></a> <a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05673-COLLAGE.jpg"><img loading="lazy" decoding="async" class="alignnone size-large wp-image-837" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05673-COLLAGE-1024x1024.jpg" alt="" width="604" height="604" srcset="https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05673-COLLAGE-1024x1024.jpg 1024w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05673-COLLAGE-150x150.jpg 150w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05673-COLLAGE-300x300.jpg 300w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05673-COLLAGE-768x768.jpg 768w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC05673-COLLAGE.jpg 2046w" sizes="(max-width: 604px) 100vw, 604px" /></a> <a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC02595-e1544972321180.jpg"><img loading="lazy" decoding="async" class="alignnone size-large wp-image-836" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC02595-1024x681.jpg" alt="" width="604" height="402" /></a> <a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC02593-e1544972331421.jpg"><img loading="lazy" decoding="async" class="alignnone size-large wp-image-835" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/DSC02593-1024x681.jpg" alt="" width="604" height="402" /></a></p>
+<p>事前の練習の甲斐があって、4人ともとても素晴らしい説明でした。プログラミングコードを前にして平然と解説するメイドさんは素敵で格好良いです！</p>
+<h2>まとめ</h2>
+<p><a href="https://jagsa.connpass.com/event/109552/">メイドさんと一緒に楽しく学ぶAndroidアプリ開発入門セミナー第4回・涙の卒業編</a>とは</p>
+<ol>
+<li>日本Androidの会秋葉原支部と学生部のコラボイベントである</li>
+<li>秋葉原支部ではメイドさんとともに学びの哲学を探求する活動を6年間続けてきた</li>
+<li>メイド x ITイベントとしてはおそらく元祖である</li>
+<li>これまでに3回やっていて、今回が最後である</li>
+<li>資料や課題プログラムは学生さんたちが作った</li>
+<li>Android開発のセミナーには環境トラブルがつきものなのでサポートが必要</li>
+<li>メイドさんが席を回ってトラブルが起きていないか見てくれていた</li>
+<li>メイドさんの説明は上手で、活躍する姿はかっこ良かった</li>
+</ol>
+<p>今回で最後なのは寂しいですが、終わりがあるものは美しいです。メイドさんたちがAndroidセミナー講師として活躍した姿は大勢の記憶に留められていくでしょう。そして、今後活動の意志は<a href="https://student.android-group.jp/">日本Androidの会学生部</a>さんが受け継いでくれるでしょう。</p>
+<p>また、手前味噌ですが私が運営する<a href="http://www.maid-cafe.work/">メイドカフェでノマド会</a>もメイドさんが参加するIT系のイベントコミュニティということで多くを学ばせて頂きました。今後の活動に生かして行きたいと思います。</p>
+<p><a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/P_20181216_171615_vHDR_Auto-1.jpg"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-819" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/P_20181216_171615_vHDR_Auto-1.jpg" alt="" width="3916" height="2936" /></a><br />
+<em>秋葉原支部のメイドさんが愛用していた指差し棒「おともだち」を学生部のいのりさんに引き継いでいるところです。</em></p>
+<h2>日本Androidの会学生部について</h2>
+<p>日本Androidの会学生部は<a href="http://www.android-group.jp/">NPO法人 日本Androidの会</a>を母体とした支部であり、本会の方々からの支援を受けながら学生が運営しています。<em>「”Android”だけにこだわらず、ビジネス系・技術系・デザイナー系の学生が集まり、切磋琢磨していく場所」</em>を作っているということです。入部資格は「学生であること」のみで、入部は<a href="https://student.android-group.jp">Webサイト</a>から行えます。</p>
+<p>活動内容などは<a href="https://student.android-group.jp/">Webサイト</a>を御覧ください。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.maid-cafe.work/blog/2018/816/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>メイドカフェでノマド会2018年の振り返り</title>
+		<link>https://www.maid-cafe.work/blog/2018/813</link>
+					<comments>https://www.maid-cafe.work/blog/2018/813#respond</comments>
+		
+		<dc:creator><![CDATA[susumuis]]></dc:creator>
+		<pubDate>Thu, 13 Dec 2018 16:41:31 +0000</pubDate>
+				<category><![CDATA[ノマド会運営報告]]></category>
+		<category><![CDATA[メイドアドベントカレンダー]]></category>
+		<guid isPermaLink="false">http://www.maid-cafe.work/?p=813</guid>
+
+					<description><![CDATA[この記事はメイドアドベントカレンダー2018の14日目です。 今日はメイドカフェでノマド会の振り返り会を行います。 わかりやすく言えば忘年会がしたかったのですが?とはいえconnpassで募集するので真面目なこともやりま [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>この記事は<a href="https://adventar.org/calendars/3422">メイドアドベントカレンダー2018</a>の14日目です。</p>
+<p>今日はメイドカフェでノマド会の振り返り会を行います。</p>
+<p>わかりやすく言えば忘年会がしたかったのですが?とはいえconnpassで募集するので真面目なこともやりましょうということで、振り返り資料を作りました。</p>
+<p>ということで、こちらがメイドカフェでノマド会2018年度の活動報告です。</p>
+<p><iframe loading="lazy" src="https://docs.google.com/presentation/d/e/2PACX-1vR-GFIRbswq4vJz7XBUpnvecU6GRjELWtPo6r5jwHwQkJti8AzIXLl_eP3FbsmR0zTtXyRREobX03Bh/embed?start=false&amp;loop=false&amp;delayms=3000" width="960" height="569" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>内容の解釈や、来年度の方針などは年明けに2019年度メイドカフェでノマド会総会を予定しています。（多分新年会?も兼ねると思います）各々、それを踏まえつつ、今日は楽しく飲みましょう！</p>
+<p>まだ数人入れそうです（会場は13,4人くらいまで入れます）</p>
+<p><a href="https://maid-cafe-nomad.connpass.com/event/111088/">申込みはこちらから。</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.maid-cafe.work/blog/2018/813/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ネタがないから「メイドちゃん」と会話した</title>
+		<link>https://www.maid-cafe.work/blog/2018/797</link>
+					<comments>https://www.maid-cafe.work/blog/2018/797#respond</comments>
+		
+		<dc:creator><![CDATA[susumuis]]></dc:creator>
+		<pubDate>Wed, 05 Dec 2018 10:26:38 +0000</pubDate>
+				<category><![CDATA[ネタ]]></category>
+		<category><![CDATA[メイドアドベントカレンダー]]></category>
+		<guid isPermaLink="false">http://www.maid-cafe.work/?p=797</guid>
+
+					<description><![CDATA[この記事はメイドアドベントカレンダー2018の5日目です。 メイドアドベントカレンダーが早くも止まってしまう！そうは行かないので「メイドちゃん」（bot）に助けてもらいました。 おやすみメイドちゃん！]]></description>
+										<content:encoded><![CDATA[<p>この記事は<a href="https://adventar.org/calendars/3422">メイドアドベントカレンダー2018</a>の5日目です。</p>
+<p>メイドアドベントカレンダーが早くも止まってしまう！そうは行かないので「メイドちゃん」（bot）に助けてもらいました。</p>
+<p><a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/a8629bdc0a11a9f74606c6df6e9f930f.png"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-798" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/a8629bdc0a11a9f74606c6df6e9f930f.png" alt="" width="783" height="444" srcset="https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/a8629bdc0a11a9f74606c6df6e9f930f.png 783w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/a8629bdc0a11a9f74606c6df6e9f930f-300x170.png 300w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/a8629bdc0a11a9f74606c6df6e9f930f-768x435.png 768w" sizes="(max-width: 783px) 100vw, 783px" /></a></p>
+<p><a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/343371416a454be64215e5fc5c135e82.png"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-799" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/343371416a454be64215e5fc5c135e82.png" alt="" width="761" height="355" srcset="https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/343371416a454be64215e5fc5c135e82.png 761w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/343371416a454be64215e5fc5c135e82-300x140.png 300w" sizes="(max-width: 761px) 100vw, 761px" /></a><a href="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/0742f005aafc510009152939af49faf7.png"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-800" src="http://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/0742f005aafc510009152939af49faf7.png" alt="" width="786" height="627" srcset="https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/0742f005aafc510009152939af49faf7.png 786w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/0742f005aafc510009152939af49faf7-300x239.png 300w, https://www.maid-cafe.work/wp-content/uploads/sites/2/2018/12/0742f005aafc510009152939af49faf7-768x613.png 768w" sizes="(max-width: 786px) 100vw, 786px" /></a></p>
+<p>おやすみメイドちゃん！</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.maid-cafe.work/blog/2018/797/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
