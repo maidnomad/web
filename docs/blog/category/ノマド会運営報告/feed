@@ -10,7 +10,7 @@
 <channel>
 	<title>ノマド会運営報告 &#8211; メイドカフェでノマド会公式サイト</title>
 	<atom:link href="https://www.maid-cafe.work/blog/category/%e3%83%8e%e3%83%9e%e3%83%89%e4%bc%9a%e9%81%8b%e5%96%b6%e5%a0%b1%e5%91%8a/feed" rel="self" type="application/rss+xml" />
-	<link>https://www.maid-cafe.work</link>
+	<link>https://maidnomad.github.io/web</link>
 	<description>メイドカフェでノマドワークの素晴らしさを世の中に広げる活動をしています</description>
 	<lastBuildDate>Sun, 11 Jul 2021 10:19:56 +0000</lastBuildDate>
 	<language>ja</language>
@@ -23,13 +23,13 @@
 <image>
 	<url>https://maidnomad.github.io/web/wp-content/uploads/sites/2/2015/12/cropped-P_20151212_213249-1-32x32.jpg</url>
 	<title>ノマド会運営報告 &#8211; メイドカフェでノマド会公式サイト</title>
-	<link>https://www.maid-cafe.work</link>
+	<link>https://maidnomad.github.io/web</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>コロナとメイドカフェでノマド会</title>
-		<link>https://www.maid-cafe.work/blog/2020/1186</link>
+		<link>https://maidnomad.github.io/web/blog/2020/1186</link>
 					<comments>https://www.maid-cafe.work/blog/2020/1186#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -137,7 +137,7 @@ ICT時代、人とリアルで話すということが減る中、あえて<stro
 			</item>
 		<item>
 		<title>メイドカフェでノマド会2019年活動報告</title>
-		<link>https://www.maid-cafe.work/blog/2019/935</link>
+		<link>https://maidnomad.github.io/web/blog/2019/935</link>
 					<comments>https://www.maid-cafe.work/blog/2019/935#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -162,7 +162,7 @@ ICT時代、人とリアルで話すということが減る中、あえて<stro
 			</item>
 		<item>
 		<title>2019年メイドカフェでノマド会総会を報告と本年度の活動方針</title>
-		<link>https://www.maid-cafe.work/blog/2019/859</link>
+		<link>https://maidnomad.github.io/web/blog/2019/859</link>
 					<comments>https://www.maid-cafe.work/blog/2019/859#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -232,7 +232,7 @@ ICT時代、人とリアルで話すということが減る中、あえて<stro
 			</item>
 		<item>
 		<title>メイドカフェでノマド会2018年度会計報告</title>
-		<link>https://www.maid-cafe.work/blog/2018/850</link>
+		<link>https://maidnomad.github.io/web/blog/2018/850</link>
 					<comments>https://www.maid-cafe.work/blog/2018/850#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -341,7 +341,7 @@ ICT時代、人とリアルで話すということが減る中、あえて<stro
 			</item>
 		<item>
 		<title>メイドカフェでノマド会2018年の振り返り</title>
-		<link>https://www.maid-cafe.work/blog/2018/813</link>
+		<link>https://maidnomad.github.io/web/blog/2018/813</link>
 					<comments>https://www.maid-cafe.work/blog/2018/813#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -368,7 +368,7 @@ ICT時代、人とリアルで話すということが減る中、あえて<stro
 			</item>
 		<item>
 		<title>メイドカフェでノマド会にメイドさんがいる理由</title>
-		<link>https://www.maid-cafe.work/blog/2018/753</link>
+		<link>https://maidnomad.github.io/web/blog/2018/753</link>
 					<comments>https://www.maid-cafe.work/blog/2018/753#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -482,7 +482,7 @@ ICT時代、人とリアルで話すということが減る中、あえて<stro
 			</item>
 		<item>
 		<title>2018年メイドカフェでノマド会総会を開催しました</title>
-		<link>https://www.maid-cafe.work/blog/2018/586</link>
+		<link>https://maidnomad.github.io/web/blog/2018/586</link>
 					<comments>https://www.maid-cafe.work/blog/2018/586#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -545,7 +545,7 @@ ICT時代、人とリアルで話すということが減る中、あえて<stro
 			</item>
 		<item>
 		<title>2017年度会計報告</title>
-		<link>https://www.maid-cafe.work/blog/2018/581</link>
+		<link>https://maidnomad.github.io/web/blog/2018/581</link>
 					<comments>https://www.maid-cafe.work/blog/2018/581#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -570,7 +570,7 @@ ICT時代、人とリアルで話すということが減る中、あえて<stro
 			</item>
 		<item>
 		<title>メイドカフェでノマド会を運営して1年になりました</title>
-		<link>https://www.maid-cafe.work/blog/2017/528</link>
+		<link>https://maidnomad.github.io/web/blog/2017/528</link>
 					<comments>https://www.maid-cafe.work/blog/2017/528#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -703,7 +703,7 @@ ICT時代、人とリアルで話すということが減る中、あえて<stro
 			</item>
 		<item>
 		<title>メイドカフェでノマド会をはじめた理由 （メイドアドベントカレンダー1日目） #maidadvent</title>
-		<link>https://www.maid-cafe.work/blog/2016/283</link>
+		<link>https://maidnomad.github.io/web/blog/2016/283</link>
 					<comments>https://www.maid-cafe.work/blog/2016/283#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>

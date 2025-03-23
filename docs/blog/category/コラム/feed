@@ -10,7 +10,7 @@
 <channel>
 	<title>コラム &#8211; メイドカフェでノマド会公式サイト</title>
 	<atom:link href="https://www.maid-cafe.work/blog/category/%e3%82%b3%e3%83%a9%e3%83%a0/feed" rel="self" type="application/rss+xml" />
-	<link>https://www.maid-cafe.work</link>
+	<link>https://maidnomad.github.io/web</link>
 	<description>メイドカフェでノマドワークの素晴らしさを世の中に広げる活動をしています</description>
 	<lastBuildDate>Mon, 22 Nov 2021 17:41:39 +0000</lastBuildDate>
 	<language>ja</language>
@@ -23,13 +23,13 @@
 <image>
 	<url>https://maidnomad.github.io/web/wp-content/uploads/sites/2/2015/12/cropped-P_20151212_213249-1-32x32.jpg</url>
 	<title>コラム &#8211; メイドカフェでノマド会公式サイト</title>
-	<link>https://www.maid-cafe.work</link>
+	<link>https://maidnomad.github.io/web</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>メイドカフェとティール組織</title>
-		<link>https://www.maid-cafe.work/blog/2019/901</link>
+		<link>https://maidnomad.github.io/web/blog/2019/901</link>
 					<comments>https://www.maid-cafe.work/blog/2019/901#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -121,7 +121,7 @@
 			</item>
 		<item>
 		<title>メイドカフェに何をしにいくのか</title>
-		<link>https://www.maid-cafe.work/blog/2019/897</link>
+		<link>https://maidnomad.github.io/web/blog/2019/897</link>
 					<comments>https://www.maid-cafe.work/blog/2019/897#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -184,7 +184,7 @@
 			</item>
 		<item>
 		<title>祝！メイドアドベントカレンダー2018がコンプリートしました！?</title>
-		<link>https://www.maid-cafe.work/blog/2018/844</link>
+		<link>https://maidnomad.github.io/web/blog/2018/844</link>
 					<comments>https://www.maid-cafe.work/blog/2018/844#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -339,7 +339,7 @@
 			</item>
 		<item>
 		<title>メイド好きがメイドさんとイベントを運営する時気をつけるべきこと</title>
-		<link>https://www.maid-cafe.work/blog/2018/604</link>
+		<link>https://maidnomad.github.io/web/blog/2018/604</link>
 					<comments>https://www.maid-cafe.work/blog/2018/604#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -448,7 +448,7 @@
 			</item>
 		<item>
 		<title>メイドカフェでノマド会にメイドさんがいる理由</title>
-		<link>https://www.maid-cafe.work/blog/2018/753</link>
+		<link>https://maidnomad.github.io/web/blog/2018/753</link>
 					<comments>https://www.maid-cafe.work/blog/2018/753#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -562,7 +562,7 @@
 			</item>
 		<item>
 		<title>既婚者がメイドカフェ通いしていても奥さんは大丈夫なのか</title>
-		<link>https://www.maid-cafe.work/blog/2017/551</link>
+		<link>https://maidnomad.github.io/web/blog/2017/551</link>
 					<comments>https://www.maid-cafe.work/blog/2017/551#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -661,7 +661,7 @@
 			</item>
 		<item>
 		<title>「メイドプログラミングスクール」に期待すること</title>
-		<link>https://www.maid-cafe.work/blog/2017/417</link>
+		<link>https://maidnomad.github.io/web/blog/2017/417</link>
 					<comments>https://www.maid-cafe.work/blog/2017/417#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -730,7 +730,7 @@
 			</item>
 		<item>
 		<title>【0から1への発想術】でチェックする「メイドカフェノマド会 」(2/2)</title>
-		<link>https://www.maid-cafe.work/blog/2017/408</link>
+		<link>https://maidnomad.github.io/web/blog/2017/408</link>
 					<comments>https://www.maid-cafe.work/blog/2017/408#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -931,7 +931,7 @@ Appleを追放された時も「自分の仕事をまだ好きでいた。だか
 			</item>
 		<item>
 		<title>【0から1への発想術】でチェックする「メイドカフェノマド会 」(1/2)</title>
-		<link>https://www.maid-cafe.work/blog/2017/389</link>
+		<link>https://maidnomad.github.io/web/blog/2017/389</link>
 					<comments>https://www.maid-cafe.work/blog/2017/389#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -1115,7 +1115,7 @@ Appleを追放された時も「自分の仕事をまだ好きでいた。だか
 			</item>
 		<item>
 		<title>転職しても、僕は元気です＼(^o^)／</title>
-		<link>https://www.maid-cafe.work/blog/2017/304</link>
+		<link>https://maidnomad.github.io/web/blog/2017/304</link>
 					<comments>https://www.maid-cafe.work/blog/2017/304#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>

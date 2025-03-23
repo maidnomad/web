@@ -10,7 +10,7 @@
 <channel>
 	<title>お店紹介 &#8211; メイドカフェでノマド会公式サイト</title>
 	<atom:link href="https://www.maid-cafe.work/blog/category/%e3%81%8a%e5%ba%97%e7%b4%b9%e4%bb%8b/feed" rel="self" type="application/rss+xml" />
-	<link>https://www.maid-cafe.work</link>
+	<link>https://maidnomad.github.io/web</link>
 	<description>メイドカフェでノマドワークの素晴らしさを世の中に広げる活動をしています</description>
 	<lastBuildDate>Fri, 19 Aug 2016 13:59:02 +0000</lastBuildDate>
 	<language>ja</language>
@@ -23,13 +23,13 @@
 <image>
 	<url>https://maidnomad.github.io/web/wp-content/uploads/sites/2/2015/12/cropped-P_20151212_213249-1-32x32.jpg</url>
 	<title>お店紹介 &#8211; メイドカフェでノマド会公式サイト</title>
-	<link>https://www.maid-cafe.work</link>
+	<link>https://maidnomad.github.io/web</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>群馬唯一のメイド喫茶「BerryBerry」に行ってきた</title>
-		<link>https://www.maid-cafe.work/blog/2016/171</link>
+		<link>https://maidnomad.github.io/web/blog/2016/171</link>
 					<comments>https://www.maid-cafe.work/blog/2016/171#comments</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -89,7 +89,7 @@
 			</item>
 		<item>
 		<title>松本のメイド喫茶「Angel」に行ってきた（閉店）</title>
-		<link>https://www.maid-cafe.work/blog/2016/158</link>
+		<link>https://maidnomad.github.io/web/blog/2016/158</link>
 					<comments>https://www.maid-cafe.work/blog/2016/158#comments</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -163,7 +163,7 @@
 			</item>
 		<item>
 		<title>人気観光ガイド秋葉るきさん、幻橙館のメイドさんを体験</title>
-		<link>https://www.maid-cafe.work/blog/2016/97</link>
+		<link>https://maidnomad.github.io/web/blog/2016/97</link>
 					<comments>https://www.maid-cafe.work/blog/2016/97#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -208,7 +208,7 @@
 			</item>
 		<item>
 		<title>幻橙館着物イベントでノマドしてきた</title>
-		<link>https://www.maid-cafe.work/blog/2016/83</link>
+		<link>https://maidnomad.github.io/web/blog/2016/83</link>
 					<comments>https://www.maid-cafe.work/blog/2016/83#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -246,7 +246,7 @@
 			</item>
 		<item>
 		<title>2015年メイド納めしてきました（シャッツキステ、ハニハニ、＠ほぉ〜む、幻橙館、メイリッシュ）</title>
-		<link>https://www.maid-cafe.work/blog/2015/75</link>
+		<link>https://maidnomad.github.io/web/blog/2015/75</link>
 					<comments>https://www.maid-cafe.work/blog/2015/75#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
@@ -312,7 +312,7 @@
 			</item>
 		<item>
 		<title>女中酒場幻橙館の紹介</title>
-		<link>https://www.maid-cafe.work/blog/2015/68</link>
+		<link>https://maidnomad.github.io/web/blog/2015/68</link>
 					<comments>https://www.maid-cafe.work/blog/2015/68#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>

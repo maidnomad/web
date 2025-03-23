@@ -10,7 +10,7 @@
 <channel>
 	<title>未分類 &#8211; メイドカフェでノマド会公式サイト</title>
 	<atom:link href="https://www.maid-cafe.work/blog/category/uncategorized/feed" rel="self" type="application/rss+xml" />
-	<link>https://www.maid-cafe.work</link>
+	<link>https://maidnomad.github.io/web</link>
 	<description>メイドカフェでノマドワークの素晴らしさを世の中に広げる活動をしています</description>
 	<lastBuildDate>Sat, 23 Feb 2019 07:41:43 +0000</lastBuildDate>
 	<language>ja</language>
@@ -23,13 +23,13 @@
 <image>
 	<url>https://maidnomad.github.io/web/wp-content/uploads/sites/2/2015/12/cropped-P_20151212_213249-1-32x32.jpg</url>
 	<title>未分類 &#8211; メイドカフェでノマド会公式サイト</title>
-	<link>https://www.maid-cafe.work</link>
+	<link>https://maidnomad.github.io/web</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>メイドアドベントカレンダー2017総集編</title>
-		<link>https://www.maid-cafe.work/blog/2017/573</link>
+		<link>https://maidnomad.github.io/web/blog/2017/573</link>
 					<comments>https://www.maid-cafe.work/blog/2017/573#respond</comments>
 		
 		<dc:creator><![CDATA[susumuis]]></dc:creator>
