@@ -9,7 +9,7 @@
 
 <channel>
 	<title>閉店したお店 &#8211; メイドカフェでノマド会公式サイト</title>
-	<atom:link href="https://www.maid-cafe.work/blog/category/%e9%96%89%e5%ba%97%e3%81%97%e3%81%9f%e3%81%8a%e5%ba%97/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="https://maidnomad.github.io/web/blog/category/%e9%96%89%e5%ba%97%e3%81%97%e3%81%9f%e3%81%8a%e5%ba%97/feed" rel="self" type="application/rss+xml" />
 	<link>https://maidnomad.github.io/web</link>
 	<description>メイドカフェでノマドワークの素晴らしさを世の中に広げる活動をしています</description>
 	<lastBuildDate>Fri, 19 Aug 2016 13:36:29 +0000</lastBuildDate>

@@ -9,7 +9,7 @@
 
 <channel>
 	<title>susumuis &#8211; メイドカフェでノマド会公式サイト</title>
-	<atom:link href="https://www.maid-cafe.work/blog/author/susumuis/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="https://maidnomad.github.io/web/blog/author/susumuis/feed" rel="self" type="application/rss+xml" />
 	<link>https://maidnomad.github.io/web</link>
 	<description>メイドカフェでノマドワークの素晴らしさを世の中に広げる活動をしています</description>
 	<lastBuildDate>Mon, 22 Nov 2021 17:41:39 +0000</lastBuildDate>

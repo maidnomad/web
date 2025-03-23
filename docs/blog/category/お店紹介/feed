@@ -9,7 +9,7 @@
 
 <channel>
 	<title>お店紹介 &#8211; メイドカフェでノマド会公式サイト</title>
-	<atom:link href="https://www.maid-cafe.work/blog/category/%e3%81%8a%e5%ba%97%e7%b4%b9%e4%bb%8b/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="https://maidnomad.github.io/web/blog/category/%e3%81%8a%e5%ba%97%e7%b4%b9%e4%bb%8b/feed" rel="self" type="application/rss+xml" />
 	<link>https://maidnomad.github.io/web</link>
 	<description>メイドカフェでノマドワークの素晴らしさを世の中に広げる活動をしています</description>
 	<lastBuildDate>Fri, 19 Aug 2016 13:59:02 +0000</lastBuildDate>

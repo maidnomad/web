@@ -9,7 +9,7 @@
 
 <channel>
 	<title>イベント報告 &#8211; メイドカフェでノマド会公式サイト</title>
-	<atom:link href="https://www.maid-cafe.work/blog/category/%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e5%a0%b1%e5%91%8a/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="https://maidnomad.github.io/web/blog/category/%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e5%a0%b1%e5%91%8a/feed" rel="self" type="application/rss+xml" />
 	<link>https://maidnomad.github.io/web</link>
 	<description>メイドカフェでノマドワークの素晴らしさを世の中に広げる活動をしています</description>
 	<lastBuildDate>Thu, 19 Dec 2019 22:49:41 +0000</lastBuildDate>
